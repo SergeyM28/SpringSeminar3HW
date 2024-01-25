@@ -15,10 +15,10 @@ public class RegistrationService {
 
     @Autowired
     private DataProcessingService dataProcessingService;
-    //внедрение зависимотей
+    //внедрение зависимостей
     @Autowired
     private UserService userService;
-    //внедрение зависимотей
+    //внедрение зависимостей
     @Autowired
     private NotificationService notificationService;
 
