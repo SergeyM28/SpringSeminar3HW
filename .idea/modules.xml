@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringGr4856.iml" filepath="$PROJECT_DIR$/.idea/SpringGr4856.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/sem3HomeTask/sem3HomeTask.iml" filepath="$PROJECT_DIR$/Seminar3/sem3HomeTask/sem3HomeTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/sem3exampl1/sem3exampl1.iml" filepath="$PROJECT_DIR$/Seminar3/sem3exampl1/sem3exampl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/sem3example2REST/sem3example2REST.iml" filepath="$PROJECT_DIR$/Seminar3/sem3example2REST/sem3example2REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Sem3example3_scope/sq-ch9-ex3/sq-ch9-ex3.iml" filepath="$PROJECT_DIR$/Seminar3/Sem3example3_scope/sq-ch9-ex3/sq-ch9-ex3.iml" />
+    </modules>
+  </component>
+</project>
